@@ -33,11 +33,11 @@ Se abrirá un terminal en la parte baja donde escribiremos los siguientes pasos:
 
 2. Una vez dentro, clonamos el proyecto escribiendo lo siguiente:
 
-`git clone https://github.com/SaraStemTrading/estrategia2_patron3velas.git`
+`git clone https://github.com/SaraStemTrading/estrategia3_marubozu.git`
 
 3. Entramos en la carpeta especificada:
 
-`cd estrategia2_patron3velas`
+`cd estrategia3_marubozu`
 
 4. Una vez dentro, desplegamos un entorno virtual del siguiente modo: 
 
@@ -85,12 +85,12 @@ Adjunto imagen con los periodos y timeframes disponibles:
 ## Funcionamiento del algoritmo
 Una vez rellenados los apartados anteriores, podemos ejecutar el código de nuestra estrategia desde Visual Studio Code y valorar los resultados obtenidos, que aparecerán en el terminal de la plataforma. Esto lo haremos escribiendo en el terminal:
 
-`python3 estrategia2_patron3velas.py`
+`python3 estrategia3_marubozu.py`
 
 **_Nota:_** Recuerda que para probar otros parámetros en esta estrategia, solo debes modificar el archivo .env
 
 ## Resultados
-Los resultados de esta estrategia nº2 (con  los parámetros indicados en el archivo .env), se pueden ver en el terminal de Visual Studio Code. En concreto, se verá un dataframe con los siguientes datos:
+Los resultados de esta estrategia nº3 (con  los parámetros indicados en el archivo .env), se pueden ver en el terminal de Visual Studio Code. En concreto, se verá un dataframe con los siguientes datos:
 
 - __Rentabilidad (%)__
 - __Número de operaciones__
